@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewScreenshot2</string>
+    <string name="textField">Здесь будет какой то текст</string>
+    <string name="btnMagic">Кнопка делающая магию</string>
+</resources>
