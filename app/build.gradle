@@ -31,7 +31,7 @@ dependencies {
     androidTestImplementation 'androidx.test:rules:1.2.0'
 }
 
-
+//Tasks for retrieving screens from device
 def reportsDirectory = "$buildDir/reports/androidTests/connected"
 
 def embedScreenshotsTask = task('embedScreenshots', group: 'reporting') {
